@@ -1,4 +1,4 @@
-# Hi I'm Atharva Raut
+# Atharva Raut
 
 I'm a **Data Scientist** focused on building **practical, end-to-end data and machine learning solutions** using Python; from raw data to insights, models, and deployable applications.
 
