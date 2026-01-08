@@ -1,5 +1,5 @@
 # Atharva Raut
-
+![Laptop SVG](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB1ZnFqdXQyZGRrN3lvMTF2YWE1bmNhem53N3gxeWc4NDBxdXd1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif)
 I'm a **Data Scientist** focused on building **practical, end-to-end data and machine learning solutions** using Python; from raw data to insights, models, and deployable applications.
 
 I enjoy working on real-world problems where data needs to be cleaned, understood, modeled, and explained clearly to stakeholders.
@@ -18,25 +18,23 @@ I enjoy working on real-world problems where data needs to be cleaned, understoo
 
 ## Tech Stack
 
-**Languages & Tools**
-- Python, C++
-- Pandas, NumPy
-- Scikit-learn
+### 💻 Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Data & ML**
-- Feature Engineering
-- Model Evaluation (Precision, Recall, Confusion Matrix)
-- Bias–Variance Analysis
+### 📊 Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Visualization & Deployment**
-- Matplotlib, Seaborn
-- Streamlit
-- FastAPI
+### 📝 NLP & Modeling
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 
-**Workflow**
-- Git & GitHub
-- Reproducible ML pipelines
-- Clean, modular code
+### 🚀 Visualization & Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ---
 
@@ -57,27 +55,24 @@ You can find detailed READMEs inside each repository explaining the **problem, s
 
 ## How I Approach Problems
 
-1. Understand the **business or practical objective**
-2. Explore and clean the data thoroughly
-3. Build interpretable and reliable models
-4. Evaluate results with the right metrics
-5. Deliver insights or deployable prototypes
+✔ Understand the problem  
+✔ Explore & clean data  
+✔ Build interpretable models  
+✔ Evaluate with the right metrics  
+✔ Deliver insights or deployable tools  
 
 I prioritize **clarity, correctness, and usefulness** over unnecessary complexity.
 
 ---
 
-## Open to Collaboration & Freelance Work
-
-I’m open to:
-- Freelance data science / ML projects
-- Short-term analytical tasks
-- Prototyping ML ideas into working demos
-
-If you’re looking for someone who can **understand data and turn it into something usable**, feel free to reach out.
-
-**Let’s connect through Upwork or GitHub**
+Ask me about:
+💼 Data Science & ML projects  
+📊 Analysis & modeling tasks  
+🚀 Rapid prototypes & dashboards  
 
 ---
+<div align="center">
 
-*Thanks for visiting my profile!*
+⭐ If you like data-driven work, feel free to explore my repositories ⭐
+
+</div>
