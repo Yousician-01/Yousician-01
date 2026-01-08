@@ -1,5 +1,5 @@
-<img align= "right" width="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB1ZnFqdXQyZGRrN3lvMTF2YWE1bmNhem53N3gxeWc4NDBxdXd1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
 # Atharva Raut
+<img align= "right" width="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB1ZnFqdXQyZGRrN3lvMTF2YWE1bmNhem53N3gxeWc4NDBxdXd1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
 
 I'm a **Data Scientist** focused on building **practical, end-to-end data and machine learning solutions** using Python; from raw data to insights, models, and deployable applications.
 
