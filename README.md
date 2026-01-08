@@ -6,7 +6,6 @@ I'm a **Data Scientist** focused on building **practical, end-to-end data and ma
 I enjoy working on real-world problems where data needs to be cleaned, understood, modeled, and explained clearly to stakeholders.
 
 <br/>
----
 
 ## What I Do
 
