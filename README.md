@@ -67,6 +67,7 @@ I prioritize **clarity, correctness, and usefulness** over unnecessary complexit
 ---
 
 Ask me about:
+
 💼 Data Science & ML projects  
 📊 Analysis & modeling tasks  
 🚀 Rapid prototypes & dashboards  
