@@ -1,9 +1,11 @@
 # Atharva Raut
-![Laptop SVG](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB1ZnFqdXQyZGRrN3lvMTF2YWE1bmNhem53N3gxeWc4NDBxdXd1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif)
+
+<img align= "Right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB1ZnFqdXQyZGRrN3lvMTF2YWE1bmNhem53N3gxeWc4NDBxdXd1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
 I'm a **Data Scientist** focused on building **practical, end-to-end data and machine learning solutions** using Python; from raw data to insights, models, and deployable applications.
 
 I enjoy working on real-world problems where data needs to be cleaned, understood, modeled, and explained clearly to stakeholders.
 
+<br clear="Right"/>
 ---
 
 ## What I Do
