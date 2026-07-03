@@ -1,9 +1,9 @@
 # Atharva Raut
 <img align= "right" width="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB1ZnFqdXQyZGRrN3lvMTF2YWE1bmNhem53N3gxeWc4NDBxdXd1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
 
-I'm a **Data Scientist** focused on building **practical, end-to-end data and machine learning solutions** using Python; from raw data to insights, models, and deployable applications.
+I'm a **Data Scientist & AI/ML Engineer** focused on building **practical, end-to-end machine learning and AI systems** using Python, from raw data to intelligent applications, deployable services, and production-ready workflows.
 
-I enjoy working on real-world problems where data needs to be cleaned, understood, modeled, and explained clearly to stakeholders.
+My interests span **Machine Learning, NLP, Large Language Models (LLMs), MLOps, and intelligent automation**. I enjoy solving real-world problems by combining data, software engineering, and AI into systems that are reliable, explainable, and useful.
 
 <br/>
 
@@ -11,9 +11,12 @@ I enjoy working on real-world problems where data needs to be cleaned, understoo
 
 - **Exploratory Data Analysis (EDA)** & data quality assessment  
 - **Machine Learning** (classification, prediction, evaluation)  
-- **Feature engineering & preprocessing pipelines**  
-- **Natural Language Processing (NLP)** for text data  
-- **Model deployment & prototyping** using Streamlit & FastAPI  
+- **Natural Language Processing (NLP)** & Transformer models 
+- **LLM Applications & AI Workflows**
+- **MLOps** (Docker, GitHub Actions, model deployment)
+- **Backend Development** with Django & FastAPI
+- **Full-stack AI Prototypes** using Next.js
+- **Data Pipelines & Automation**
 
 ---
 
@@ -22,24 +25,45 @@ I enjoy working on real-world problems where data needs to be cleaned, understoo
 ### 💻 Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 📊 Data & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 📝 NLP & Modeling
 ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 
-### 🚀 Visualization & Deployment
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### 🚀 Deployment & Engineering
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+### 🤖 AI & LLM
+
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-6E57E0?style=for-the-badge)
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-5B21B6?style=for-the-badge)
+
+![MLOps](https://img.shields.io/badge/MLOps-0A66C2?style=for-the-badge)
 
 ---
 
 ## Featured Projects
+
+🔹 **AI Investigation & Reasoning Engine** *(Private)*
+A modular AI-assisted investigation platform for security event analysis, combining deterministic reasoning, graph-based relationships, and LLM-powered reporting to generate explainable investigation summaries.
+
+🔹 **Research: Fake News Detection using Transformer Models**
+Research focused on transformer-based NLP techniques for detecting misinformation, exploring text representations, model evaluation, and explainability.
 
 🔹 **Automated EDA & Data Quality Analyzer**  
 A Streamlit-based web application that performs automated EDA, detects missing values, outliers, constant features, and provides dataset health indicators with downloadable reports.
@@ -54,27 +78,26 @@ You can find detailed READMEs inside each repository explaining the **problem, s
 
 ---
 
-## How I Approach Problems
+## Currently Exploring
 
-✔ Understand the problem  
-✔ Explore & clean data  
-✔ Build interpretable models  
-✔ Evaluate with the right metrics  
-✔ Deliver insights or deployable tools  
-
-I prioritize **clarity, correctness, and usefulness** over unnecessary complexity.
+- Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
+- AI Reasoning Pipelines
+- Distributed ML Systems
+- Linux & Networking
+- System Design for AI Applications
 
 ---
 
 Ask me about:
 
-💼 Data Science & ML projects  
-📊 Analysis & modeling tasks  
-🚀 Rapid prototypes & dashboards  
+🤖 AI, Machine Learning & LLM Applications  
+⚙️ Intelligent Systems & Backend Engineering  
+🚀 MLOps, Automation & AI Prototypes  
 
 ---
 <div align="center">
 
-⭐ If you like data-driven work, feel free to explore my repositories ⭐
+⭐ If you enjoy building intelligent systems and practical AI solutions, feel free to explore my repositories ⭐
 
 </div>
